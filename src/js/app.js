@@ -24,18 +24,19 @@ App = {
   },
 
   initWeb3: function() {
-    /*
-     * Replace me...
-     */
-
+    // check for web3
+    if (typeof web3 !== 'undefined'){
+      App.web3Provider = web3.currentProvider;
+    } else {
+      // if no web3, return to testrpc
+      App.web3Provider = new Web3.providers.HttpProvider('http://localhost:8545');
+    }
+    web3 = new Web3(App.web3Provider);
     return App.initContract();
   },
 
   initContract: function() {
-    /*
-     * Replace me...
-     */
-
+    $.getJSON('Adoption.json')
     return App.bindEvents();
   },
 
