@@ -10,6 +10,12 @@ This app is built for myself to understand how ethereum works and how to integra
 http://truffleframework.com/tutorials/ethereum-overview
 - Ethereum
 - Truffle
+- lite-server
+- Node.js
+- Solidity
+
+- metamask (chrome extension that allows for ether transactions)
+https://metamask.io/
 
 ### Running the app
 
