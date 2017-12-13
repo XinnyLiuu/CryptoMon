@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Whip",
+    "picture": "images/bulbasaur.png",
+    "level": 6,
+    "breed": "Bulbasaur",
+    "location": "Kanto"
+  },
+  {
+    "id": 1,
+    "name": "Lil' Fattie",
+    "picture": "images/munchlax.jpeg",
+    "level": 21,
+    "breed": "Munchlax",
+    "location": "Sinnoh"
+  },
+  {
+    "id": 2,
+    "name": "Zssst",
+    "picture": "images/pikachu.png",
+    "level": 6,
+    "breed": "Pikachu",
+    "location": "Kanto"
+  },
+  {
+    "id": 3,
+    "name": "Big Fattie",
+    "picture": "images/snorlax.jpeg",
+    "level": 52,
+    "breed": "Snorlax",
+    "location": "Kanto"
+  },
+  {
+    "id": 4,
+    "name": "Pew",
+    "picture": "images/squirtle.png",
+    "level": 1,
+    "breed": "Squirtle",
+    "location": "Kanto"
+  }
+]
