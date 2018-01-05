@@ -21,7 +21,11 @@ https://metamask.io/
 
 Before running the app, make sure to install https://metamask.io/ on the Chrome browser.
 
-For development purposes, we will restore the default seed used by Truffle Develop on metamask: candy maple cake sugar pudding cream honey rich smooth crumble sweet treat
+For development purposes, we will restore the default seed used by Truffle Develop on metamask:
+
+```
+candy maple cake sugar pudding cream honey rich smooth crumble sweet treat
+```
 
 ### Running the app
 
@@ -38,4 +42,4 @@ migrate
 npm run dev
 ```
 
-Adopt away ! 
+Adopt away !
