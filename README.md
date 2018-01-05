@@ -17,6 +17,12 @@ http://truffleframework.com/tutorials/ethereum-overview
 - metamask (chrome extension that allows for ether transactions)
 https://metamask.io/
 
+### Setting up metamask
+
+Before running the app, make sure to install https://metamask.io/ on the Chrome browser.
+
+For development purposes, we will restore the default seed used by Truffle Develop on metamask: candy maple cake sugar pudding cream honey rich smooth crumble sweet treat
+
 ### Running the app
 
 Assuming that you have npm installed:
@@ -31,3 +37,5 @@ migrate
 
 npm run dev
 ```
+
+Adopt away ! 
